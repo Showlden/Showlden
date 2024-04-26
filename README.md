@@ -22,7 +22,8 @@ Hello! I'm Shahnur, a full-stack developer working with Python and JavaScript. W
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
 </div>
 
-## :fire: [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Showlden&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+## :fire: My stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Showlden&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :fire: Contact me
 - 📧 E-mail: kalybekov.shahnur1529@gmail.com
