@@ -28,10 +28,3 @@ Hello! I'm Shahnur, a full-stack developer working with Python and JavaScript. W
 ## :fire: Contact me
 - 📧 E-mail: kalybekov.shahnur1529@gmail.com
 - 📱 Telegram: [@showlden](https://t.me/showlden)
-
-___
-
-Feel free to reach out to me if you have any questions, suggestions, or just want to chat about software development! I'm always open to new connections and discussions.
-
-Thanks for visiting my GitHub profile!
-
